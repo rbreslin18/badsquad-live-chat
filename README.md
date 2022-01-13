@@ -8,3 +8,8 @@ npm run dev
 
 Go to localhost:3000
 ```
+## To-Do List
+```
+- Voice chat/video chat
+- Ability to private message and store messages
+```
